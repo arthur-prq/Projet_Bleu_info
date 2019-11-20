@@ -10,5 +10,6 @@ package projet_sudoku;
  * @author lsilvest
  */
 public class Case {
+    hffyhtf
     
 }
